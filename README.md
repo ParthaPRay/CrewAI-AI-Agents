@@ -18,23 +18,34 @@ CrewAI introduces a paradigm shift in AI collaboration, mirroring the dynamics o
 
 CrewAI's compatibility with local models, particularly through Ollama, marks a significant advancement in AI customization and data privacy. This integration empowers users to leverage their own models, which is crucial for specialized tasks or scenarios with sensitive data.
 
-_Setting Up Ollama with CrewAI_
+**Setting Up Ollama with CrewAI**
 
-Installation and Configuration: The setup process involves installing Ollama and configuring it to work with local models. This includes adjustments in model parameters and the addition of specific stop words.
-Model Integration: CrewAI facilitates the incorporation of Ollama models into its framework, allowing agents to utilize these models effectively.
+* Installation and Configuration: The setup process involves installing Ollama and configuring it to work with local models. This includes adjustments in model parameters and the addition of specific stop words.
+
+* Model Integration: CrewAI facilitates the incorporation of Ollama models into its framework, allowing agents to utilize these models effectively.
 
 **CrewAI - Revolutionizing AI Collaboration and Task Management**
 
-Autogen: Notable for creating conversational agents, Autogen, however, lacks an inherent concept of process, making agent interaction orchestration more programming-intensive.
-ChatDev: ChatDev introduced process-oriented AI agents but suffered from rigidity and limited customization, hindering its adaptability in production environments.
-CrewAI's Advantage: CrewAI combines the conversational flexibility of Autogen and the structured approach of ChatDev, while eliminating the limitations of both. Its dynamic and adaptable processes make it well-suited for both development and production settings.
+* Autogen: Notable for creating conversational agents, Autogen, however, lacks an inherent concept of process, making agent interaction orchestration more programming-intensive.
+
+* ChatDev: ChatDev introduced process-oriented AI agents but suffered from rigidity and limited customization, hindering its adaptability in production environments.
+
+* CrewAI's Advantage: CrewAI combines the conversational flexibility of Autogen and the structured approach of ChatDev, while eliminating the limitations of both. Its dynamic and adaptable processes make it well-suited for both development and production settings.
 
 **Conclusion**
 
 CrewAI emerges as a groundbreaking platform in the AI collaboration space, offering a comprehensive solution for creating and managing AI agents with diverse roles and objectives. Its integration with local models like Ollama, combined with its innovative features, positions CrewAI as a versatile and powerful tool for a wide range of AI-driven applications. The future development and adoption of CrewAI could potentially redefine the standards of AI collaboration and task management in various industries.
 
 
+
 # How It Works
 
 ![crewAI-mindmap](https://github.com/ParthaPRay/CrewAI-AI-Agents/assets/1689639/3b175d73-b59e-4941-9877-b4903961bce9)
+
+
+
+
+References
+
+1. https://github.com/joaomdmoura/crewai
 
