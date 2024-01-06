@@ -32,3 +32,9 @@ CrewAI's Advantage: CrewAI combines the conversational flexibility of Autogen an
 **Conclusion**
 
 CrewAI emerges as a groundbreaking platform in the AI collaboration space, offering a comprehensive solution for creating and managing AI agents with diverse roles and objectives. Its integration with local models like Ollama, combined with its innovative features, positions CrewAI as a versatile and powerful tool for a wide range of AI-driven applications. The future development and adoption of CrewAI could potentially redefine the standards of AI collaboration and task management in various industries.
+
+
+# How It Works
+
+![crewAI-mindmap](https://github.com/ParthaPRay/CrewAI-AI-Agents/assets/1689639/3b175d73-b59e-4941-9877-b4903961bce9)
+
